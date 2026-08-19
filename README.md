@@ -1,10 +1,10 @@
-<center>⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
+<div align="center">⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 
 ### ʜɪ ᴛʜᴇʀᴇ ₍ᐢ. .ᐢ₎ ₊˚⊹♡ ✧ .✦ ݁˖
 
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹ 
 
-Cybersecurity student. I enjoy building things, taking part in hackathons, and exploring **Robotics & Cyber Security**. </center>
+Cybersecurity student. I enjoy building things, taking part in hackathons, and exploring **Robotics & Cyber Security**. </div>
 
 
 
