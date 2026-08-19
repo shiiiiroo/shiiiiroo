@@ -22,7 +22,6 @@ Cybersecurity student. I enjoy building things, taking part in hackathons, and e
 
 ♡ **[hydra](https://github.com/shiiiiroo/hydra)** — Map-based dashboard project with role-based access control (RBAC) built during a hackathon with a team.
   
----
 
 ### ​🇫​​🇮​​🇳​​🇩​ ​🇲​​🇪​˚˖𓍢ִ໋❀
 * **GitHub:** [𝖘𝖍𝖎𝖎𝖎𝖎𝖗𝖔𝖔](https://github.com/shiiiiroo)
